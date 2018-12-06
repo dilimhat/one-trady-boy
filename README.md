@@ -1,8 +1,8 @@
 # one-trady-boy
 
-*Plan is to create a website where people are encoraged to share trading bot code and help new people learn the trade
+*Plan is to create a website where people are encouraged to share trading bot code and help new people learn the trade
 
-*I've wanted to learn this for a while now, but it seems that I really do have to do everything myself if anythinf is gonna work out the way I want'
+*I've wanted to learn this for a while now, but it seems that I really do have to do everything myself if anything is gonna work out the way I want'
 
 *I think that if i make good progress and prove myself capable, then other capable people will come along the way and join me
 
@@ -34,11 +34,11 @@
 
 *Metrics:
     -UI improvement:
-        + overall asthetic of the site.
+        + overall aesthetic of the site.
         + logic in page flow
         + simplicity of use, especially in context of out new trady-them case
             + getting started should be an almost linear path
-        +r eal-time data and info flow
+        + real-time data and info flow
         + personal messaging
         + bot modularity
         + public posting and commenting
@@ -48,10 +48,10 @@
     -Trading bot:
         + ability to share code
         + ability to store code securely
-        + maybe a github link so multiple users can work on the same code
+        + maybe a GitHub link so multiple users can work on the same code
     -Tutorial:
         + simple articles for people to get started
-        + link to streamlined, non frivolus starting material, stuff even Dilim could understand
+        + link to streamlined, non frivolous starting material, stuff even Dilim could understand
 *Milestones:
     + basic HTML and CSS front end webpages of non user screens
         + splash page
@@ -62,7 +62,7 @@
 
     + user sign up and sign in pages
     + database that stores and accesses user data 
-    + presistent user login session
+    + persistent user login session
     + email verification upon sign up
     + password recovery via email
     + live market data
@@ -78,7 +78,7 @@
         + direct messaging for users
         + users can post graphs of their current trading progress for the public, or they can keep them private
         + user email notification
-        + friend reuquesting 
+        + friend requesting 
         + group creation
         + user url like a website or their own
         + profile page with public user activity
@@ -88,38 +88,38 @@
         + forum posts
         + classes that verified or respected users can host to teach
         + money can change hands if one user wants to pay for the services of another
-        + trady-boy competittions
+        + trady-boy competitions
         + user blockchain digital modular contracts which allow users who collaborate on a project to formally agree on secure terms on trady0-boy ownership
 
     + Trady-boy:
         + be able to upload the code for the bot
         + back testable in various markets of choice
-        + for Novice users modularity of simple trading staregies and signals can be generated as code
+        + for Novice users modularity of simple trading strategies and signals can be generated as code
         + site wide statistical showcase of whether certain trady-boy signals are going up or down the polls in success rate in implementation
         + group collaboration on new trady-boys. 
 
     + Mobile companion app:
         + login to user account
-        + veiw posts from other users
+        + view posts from other users
         + comment on posts
-        + send and recieve direct messages from other users
-        + veiw live market data
+        + send and receive direct messages from other users
+        + view live market data
         + start, stop, and switch out tested trady-boys
-        + moniter health of trady boys
-        + security authentication with qr code login for new or public devices
+        + monitor health of trady boys
+        + security authentication with QR code login for new or public devices
 
 *Resources:
     + inspiration:
         + https://www.tradingview.com
         + betterment.com 
-    + Webdev:
+    + Web dev:
         + HTML, CSS, Javascript and JQuery
         + PHP
         + Bootstrap
     + Database:
         + MySQL
         + maybe mongo
-        + maybe Firbase
+        + maybe Firebase
     + Live data:
         + news stream api
         + twitter integration
@@ -130,7 +130,7 @@
         + Scientific/ML libraries
         + OTHER
     + Hosting:
-        + AWSbucket
+        + AWSBucket
         + some other sort of domain hosting
         + Market research from Emory resources
         + other students to help
