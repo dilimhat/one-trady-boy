@@ -35,6 +35,31 @@
   .section-a h5{
     margin-bottom:.3rem;
   }
+  .section-c a:Home{
+    color: #A9A9A9;
+    padding: 0.4em 1em;
+    text-decoration: none;
+  }
+  .section-c a:About Us{
+    color: #D3D3D3;
+    padding: 0.4em 1em;
+    text-decoration: none;
+}
+.section-c a:App{
+    color: #D3D3D3;
+    padding: 0.4em 1em;
+    text-decoration: none;
+}
+.section-c a:Contact Us{
+    color: #D3D3D3;
+    padding: 0.4em 1em;
+    text-decoration: none;
+}
+.section-c a:Forum{
+    color: #D3D3D3;
+    padding: 0.4em 1em;
+    text-decoration: none;
+}
   
   .section-c{
     background-image: url('../images/section-bg.jpg');
