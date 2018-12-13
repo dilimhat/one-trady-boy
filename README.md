@@ -155,9 +155,23 @@
         + footer
         + index
         + about us page
-        + features page
+        + features page (moved to a later story)
         + forum page
         + contact us page
+-----------------------C O M P L E T E D--------------
 
+-----------------------N E X T--------------
+2. make core functionality of modular trading bot
+    * tasks:
+        + come up with trading robot templates
+            - Python
+            - MQL4
+        + be able to print out source code to a file by parsing it as a string using another program.
+            - program should identify markers in in the template (possibly comments) and insert the contents of another file into the area
+        + things to insert into templates using printer file:
+            - API to connect to
+            - API keys
+            - Indicators
+        + make GUI applet that makes these two other programs interact with each other through drag and drop
 
   
