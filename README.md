@@ -187,4 +187,5 @@
             - Indicators
         + make GUI applet that makes these two other programs interact with each other through drag and drop
 
+ALERET!!! Look at https://www.cryptohopper.com they are doing a barebones version of wHAT WE'RE TRYING TO DO
   
