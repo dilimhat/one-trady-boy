@@ -149,7 +149,7 @@
 
 1. make the non user webpages:
     * use html and css to  design these 
-    * they will be php pages tho
+    * they will be php pages tho (changed to html pages)
     * pages:
         + header
         + footer
@@ -160,11 +160,24 @@
         + contact us page
 -----------------------C O M P L E T E D--------------
 
+
+
 -----------------------N E X T--------------
-2. make core functionality of modular trading bot
+2. website completion
+
+    * user accounts and logged in session
+        + create logged in session and backend first
+            - try following the Lynda tutorial for angular and Node JS
+        + make a user profile page that is specific to each user
+    * email confirmation upon sign up
+    * forum
+
+-----------------------N E X T--------------
+3. make core functionality of modular trading bot
     * tasks:
         + come up with trading robot templates
             - Python
+                * follow that Poloniex video series first
             - MQL4
         + be able to print out source code to a file by parsing it as a string using another program.
             - program should identify markers in in the template (possibly comments) and insert the contents of another file into the area
